@@ -14,5 +14,5 @@ postMerge:
   pattern:
     # glob-patterns to discover tests to run in case of postMerge
     - "**/*.test.js"
-parallelism: 2
+parallelism: 5
 splitMode: test
